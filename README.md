@@ -31,6 +31,7 @@ Category
 Quantity
 Price
 Revenue
+
 🚀 Outcome
 
 This dashboard provides clear insights into sales performance and helps in better decision-making.
